@@ -17,8 +17,9 @@ The workshop will cover core topics:
 
 ## [01 Intro](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/01_Intro.ipynb)
 - Applications of Machine Learning
+- Python libraries for Machine Learning
 - Supervised vs Unsupervised Learning
-- Python libraries suitable for Machine Learning
+
 
 ## [02 Regression](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/02_Regression.ipynb)
 - Linear Regression
