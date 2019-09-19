@@ -12,6 +12,7 @@ dependencies:
   - folium
   - scikit-learn
   - pydotplus
+  - basemap
   - nodejs
   - ipywidgets
   - jupyterlab
