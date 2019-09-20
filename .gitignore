@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# RecSys files
+data/README.txt
+data/links.csv
+data/moviedataset.zip
+data/movies.csv
+data/ratings.csv
+data/tags.csv
+
