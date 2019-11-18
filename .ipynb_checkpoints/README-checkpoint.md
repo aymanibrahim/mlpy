@@ -15,31 +15,31 @@ This hands-on in-person workshop is based on [Machine Learning with Python Cours
 # [Outline](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/00_Outline.ipynb)
 The workshop will cover core topics:
 
-## [01 Intro](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/01_Intro.ipynb)
+## [01 Intro](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/01_Intro.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/mlpy/blob/master/notebooks/01_Intro.ipynb)
 - Applications of Machine Learning
 - Python libraries for Machine Learning
 - Supervised vs Unsupervised Learning
 
 
-## [02 Regression](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/02_Regression.ipynb)
+## [02 Regression](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/02_Regression.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/mlpy/blob/master/notebooks/01_Intro.ipynb)
 - Linear Regression
 - Non-linear Regression
 - Model evaluation methods
 
-## [03 Classification](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/03_Classification.ipynb)
+## [03 Classification](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/03_Classification.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/mlpy/blob/master/notebooks/03_Classification.ipynb)
 
 - K-Nearest Neighbour
 - Decision Trees
 - Logistic Regression
 - Support Vector Machines
 
-## [04 Clustering](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/04_Clustering.ipynb)
+## [04 Clustering](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/04_Clustering.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/mlpy/blob/master/notebooks/04_Clustering.ipynb)
 
 - K-Means Clustering
 - Hierarchical Clustering
 - Density-Based Clustering
 
-## [05 Recommender Systems](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/05_Recommender.ipynb)
+## [05 Recommender Systems](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/05_Recommender.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/mlpy/blob/master/notebooks/05_Recommender.ipynb)
 
 - Content-based recommender systems
 - Collaborative Filtering
