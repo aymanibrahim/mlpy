@@ -71,6 +71,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+notebooks/.ipynb_checkpoints
 
 # pyenv
 .python-version
@@ -110,4 +111,5 @@ data/moviedataset.zip
 data/movies.csv
 data/ratings.csv
 data/tags.csv
+
 
