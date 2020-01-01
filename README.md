@@ -30,7 +30,7 @@ Applications            |  Supervised vs Unsupervised Learning | Prediction
 - Supervised vs Unsupervised Learning
 
 
-## [02 Regression](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/02_Regression.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/mlpy/blob/master/notebooks/01_Intro.ipynb)
+## [02 Regression](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/02_Regression.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/mlpy/blob/master/notebooks/02_Regression.ipynb)
 
 Linear Regression            |  Non-linear Regression | Evaluation
 :-------------------------:|:-------------------------:|:-------------------------:
