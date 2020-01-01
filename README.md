@@ -14,7 +14,7 @@ For people who struggle to start in machine learning with Python
 
 This hands-on in-person workshop is based on [Machine Learning with Python Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/machine-learning-with-python/)
 
->Learn how get started with supervised and unsupervised learning to uncover insights and predict future trends.
+>Learn how to get started with supervised and unsupervised learning to uncover insights and predict future trends.
 
 # [Outline](https://github.com/aymanibrahim/mlpy/blob/master/notebooks/00_Outline.ipynb)
 The workshop will cover core topics:
